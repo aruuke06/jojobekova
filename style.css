@@ -1,0 +1,7 @@
+.book{
+    width: 800px;
+    height: 900px;
+    border: 5px solid black ;
+    box-shadow: 0 5px 10px rgb(123, 96, 64) ;
+     background-image: url("https://www.atlasflowers.co.uk/cdn/shop/articles/flowers-on-a-table_73132a9b-248f-40ac-911c-f9953ce75506.jpg?v=1744190653&width=723");
+}
